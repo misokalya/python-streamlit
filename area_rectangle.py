@@ -5,4 +5,4 @@ width = st.number_input("Enter Width")
 
 area = length*width
 
-st.write("area")
+st.write(area)
