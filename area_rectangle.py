@@ -1,4 +1,4 @@
-import streamlit as streamlit
+import streamlit as st
 
 length = st.number_input("Enter Length")
 width = st.number_input("Enter Width")
